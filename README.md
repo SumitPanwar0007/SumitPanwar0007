@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Panwar</h1>
 <h3 align="center">JS || MERN || Python</h3>
-![logo](https://github.com/SumitPanwar0007/sumitpanwar007/blob/main/back.jpg)
+![logo](https://github.com/SumitPanwar0007/SumitPanwar0007/blob/main/back.jpg)
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJ4eXlvanZ4MmxuMDBhbmQ2azgzNGhhbXg4YW00dG11bmE3dXdmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitpanwar0007&label=Profile%20views&color=0e75b6&style=flat" alt="sumitpanwar0007" /> </p>
